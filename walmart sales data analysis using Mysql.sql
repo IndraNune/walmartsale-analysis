@@ -17,7 +17,7 @@ CREATE TABLE IF NOT EXISTS  sale(
  cogs decimal(10,2) ,
  gross_margin_pct float(11,9) not null,
  gross_income decimal(12,4) not null,
- rating float(2,1)not null
+ rating float(2,1)
 );
 
 
